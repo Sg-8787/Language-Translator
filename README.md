@@ -11,5 +11,7 @@ Easy to use interface
 
 ### Technologies Used 🛠️
 Python 3.10
+
 Tkinter
+
 Googletrans library
