@@ -1,0 +1,2 @@
+from tkinter import *(already installed with python)
+from googletrans import Translator*(to be installed)
