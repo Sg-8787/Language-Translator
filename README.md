@@ -10,6 +10,6 @@ Clear button to reset input and output
 Easy to use interface
 
 ### Technologies Used 🛠️
-# Python 3.10
-# Tkinter
-# Googletrans library
+Python 3.10
+Tkinter
+Googletrans library
