@@ -14,7 +14,7 @@ Clear button to reset input and output
 Easy to use interface
 
 ## Tech Stack🛠️
-Python 3.x
+Python 3.10
 
 Tkinter
 
